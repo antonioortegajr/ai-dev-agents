@@ -5,7 +5,6 @@ Main application for AI Dev Agents using Crew AI and GitHub MCP Server
 
 import asyncio
 import logging
-import os
 from dotenv import load_dotenv
 
 # Import warning suppression first
